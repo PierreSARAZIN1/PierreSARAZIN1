@@ -1,6 +1,6 @@
 <h1 align="center">Salut 🚀 je suis Pierre !</h1>
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/xyl_b-fpgWkAAAAC/matrix-green.gif" alt="bootstrap" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/xyl_b-fpgWkAAAAC/matrix-green.gif" alt="https://tenor.com/view/matrix-green-terminal-letters-matrix-effect-gif-17436063"  </a> </p>
 
 <h3 align="center">Un développeur fullstack français 🥖🧀 et passionné !</h3>
 
