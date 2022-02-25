@@ -24,9 +24,12 @@
 <p> 
   <br>
 </p>
-___
 
-<p align="center">
-❤️‍🔥 Have fun on my Github ❤️‍🔥
-</p>
+<div class="container">
+    <p align="center">
+        ❤️‍🔥 Have fun on my Github ❤️‍🔥
+    </p>
+</div>
+
+
 
