@@ -14,7 +14,7 @@
 
 - 🔭 J'apprends actuellement **Ruby et JS ! Mais ce n'est que le début!**
 
-- 💬 N'hésitez pas à me contacter pour me demander quoi que ce soit à propos de ce que j'apprends, mes formations ou tout simplement mons parcours 💬
+- 💬 N'hésitez pas à me contacter pour me demander quoi que ce soit à propos de ce que j'apprends, mes formations ou tout simplement mon parcours 💬
 
 
 
