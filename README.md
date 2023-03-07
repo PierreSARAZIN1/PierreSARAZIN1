@@ -1,11 +1,11 @@
-<h1 align="center">Salut 🚀 je suis Pierre !
+<h1 align="center">Hello je suis Pierre !
 </br>
 </br>
-<p align="center"> <img src ="https://c.tenor.com/xyl_b-fpgWkAAAAd/matrix-green.gif" alt="https://c.tenor.com/xyl_b-fpgWkAAAAd/matrix-green.gif" alt="pierresarazin1" height="120" width="160" /> </p>
+<p align="center"> <img src ="https://i.giphy.com/media/7J4P7cUur2DlErijp3/giphy.webp" height="120" width="160" /> </p>
 
  </h1>
   
-<h3 align="center">Un développeur fullstack français 🥖🧀 et passionné !</h3>
+<h3 align="center">Un développeur fullstack français et passionné !</h3>
 
 
 
