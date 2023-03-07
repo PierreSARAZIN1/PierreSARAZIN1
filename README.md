@@ -1,7 +1,7 @@
 <h1 align="center">Hello je suis Pierre !
 </br>
 </br>
-<p align="center"> <img src ="https://i.giphy.com/media/7J4P7cUur2DlErijp3/giphy.webp" height="79px" width="510px" /> </p>
+<p align="center"> <img src ="https://i.giphy.com/media/7J4P7cUur2DlErijp3/giphy.webp" /> </p>
 
  </h1>
   
