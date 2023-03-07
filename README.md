@@ -13,9 +13,9 @@
 
 <p align="center"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierresarazin1" alt="pierresarazin1" /></a> </p>
 
-- 🔭 J'apprends actuellement **Ruby et JS ! Mais ce n'est que le début!**
+- 🔭 Learn to code new things every day **
 
-- 💬 N'hésitez pas à me contacter pour me demander quoi que ce soit à propos de ce que j'apprends, mes formations ou tout simplement mon parcours 💬
+- 💬 N'hésitez pas à me contacter pour discuter de ce que j'apprends, mes formations ou tout simplement de mon parcours 💬
 
 
 
